@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mortoprak
+  - col
+  - mavitoprak
+  - buz
+  - city
+  - org
+  - WitchSpell
+  - skeleton
+  - dangeon
+  - necromaster
+  - NecroSpell
+  - HealtPotion
+  - ManaPotion
+  - BossWizard
+  - BossSkeleton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: gameobjects
+    uniqueID: 3552774693
+    locked: 0
+  - name: background
+    uniqueID: 806413
+    locked: 0
